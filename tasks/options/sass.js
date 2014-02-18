@@ -8,4 +8,4 @@ module.exports = {
       'css/build/global.css': 'css/global.scss'
     }
   }
-}
+};

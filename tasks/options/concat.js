@@ -6,4 +6,4 @@ module.exports = {
     ],
     dest: 'js/build/production.js'
   }
-}
+};
